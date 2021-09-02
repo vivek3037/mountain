@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+
+}
+h1{
+  margin-top: 0;
+}
+.H1{
+  margin: 0;
+  font-family: 'Libre Baskerville','sans-serif' ;
+}
+.image{
+margin-right: 500px;
+}
+.top-container{
+  background-color: #16A085;
+width: 1600px;
+  height: 200px;
+  border: 10px;
+  padding: 20px;
+}
+.font-text{
+  font-family: 'Lobster Two','sans-serif';
+  font-size: 30px;
+}
+
+.middle-container{
+  background-color: #45B39D;
+  width: 1600px;
+  height: 200px;
+
+}
+.bottom-container{
+  background-color: #73C6B6;
+  width: 1600px;
+  height: 200px;
+
+}
+.imagess{
+  padding-top: 146px;
+    padding-bottom: 5px;
+    border-top-width: 10px;
+    margin-top: 0px;
+}
+.last-container{
+  background-color: #A2D9CE;
+  width: 1600px;
+  height: 200px;
+}
+.riverm{
+  width: 1600px;
+height: 357px;
+}
